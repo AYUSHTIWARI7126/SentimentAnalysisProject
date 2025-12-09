@@ -82,4 +82,4 @@ SentimentAnalysisProject/
 
 ## 📷 Demo (Streamlit App Working)
 
-![App Screenshot](WorkingSample.png)
+![App Screenshot](https://raw.githubusercontent.com/AYUSHTIWARI7126/SentimentAnalysisProject/main/WorkingSample.png)
