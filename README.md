@@ -76,3 +76,10 @@ SentimentAnalysisProject/
 ├── tokenizer.pkl                  # Saved tokenizer for BiLSTM
 ├── requirements.txt               # Project dependencies
 └── README.md                      # Project documentation
+
+
+---
+
+## 📷 Demo (Streamlit App Working)
+
+![App Screenshot](WorkingSample.png)
