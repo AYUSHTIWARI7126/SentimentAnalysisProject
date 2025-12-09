@@ -1,0 +1,9 @@
+# Ignore large trained model files
+*.pkl
+*.h5
+
+# Ignore Jupyter auto-generated folders
+.ipynb_checkpoints/
+
+# Ignore Python cache
+__pycache__/
