@@ -61,6 +61,11 @@ Feature representation: **TF-IDF (uni + bi-grams)**
 
 ---
 
+
+## 📷 Demo (Streamlit App Working)
+
+![App Screenshot](https://raw.githubusercontent.com/AYUSHTIWARI7126/SentimentAnalysisProject/main/WorkingSample.png)
+
 ## 🏗 Project Structure
 
 ```text
@@ -79,9 +84,5 @@ SentimentAnalysisProject/
 
 
 ---
-
-## 📷 Demo (Streamlit App Working)
-
-![App Screenshot](https://raw.githubusercontent.com/AYUSHTIWARI7126/SentimentAnalysisProject/main/WorkingSample.png)
 
 
